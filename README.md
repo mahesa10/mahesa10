@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me :
-  Twitter [@pndmhs](https://twitter.com/pndmhs)
+  Twitter : [@pndmhs](https://twitter.com/pndmhs),
   Gmail : pandu.mahesa9@gmail.com
 
 <!---
